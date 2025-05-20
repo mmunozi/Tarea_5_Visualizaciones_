@@ -449,10 +449,14 @@ st.write(f"Grupo 60 ")
 # Notas sobre el cálculo de la Media Móvil y filtros
 st.markdown("""
 <small>
-**Notas:**
-"El Dashboard es parte de la tarea Final del Modulo 5 de Visualizaciones para el Diplomado
-            de Machine Learning y BigData   Universidad Autonoma de Chile. 
-            Integrantes: Jose Antonio Aspe Rodriguez, Marco Antonio Barraza Barraza, Manuel Darío Muñoz Ibarra, Nicolás Gonzalo Rojas Hidalgo
+**Notas:**<br>
+El Dashboard es parte de la tarea Final del Modulo 5 de Visualizaciones para el Diplomado<br>
+de Machine Learning y BigData - Universidad Autónoma de Chile.<br>
+Integrantes:<br>
+- Jose Antonio Aspe Rodriguez<br>
+- Marco Antonio Barraza Barraza<br>
+- Manuel Darío Muñoz Ibarra<br>
+- Nicolás Gonzalo Rojas Hidalgo
+</small>
 """, unsafe_allow_html=True)
 
-# Finalizar
