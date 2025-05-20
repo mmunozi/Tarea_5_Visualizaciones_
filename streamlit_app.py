@@ -452,7 +452,7 @@ st.markdown("""
 **Notas:**
 "El Dashboard es parte de la tarea Final del Modulo 5 de Visualizaciones para el Diplomado
             de Machine Learning y BigData   Universidad Autonoma de Chile. 
-            Integrantes: Jose Antonio Aspe Rodriguez, Marco Antonio Barraza Barraza, Manuel Darío Muñoz Ibarra,Nicolás Gonzalo Rojas Hidalgo
+            Integrantes: Jose Antonio Aspe Rodriguez, Marco Antonio Barraza Barraza, Manuel Darío Muñoz Ibarra, Nicolás Gonzalo Rojas Hidalgo
 """, unsafe_allow_html=True)
 
 # Finalizar
